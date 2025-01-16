@@ -1,7 +1,7 @@
 ---
 - name: Install and configure Tomcat server
  
-  hosts: 192.168.1.34
+  hosts: 172.26.41.35
  
   become: yes
  
